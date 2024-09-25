@@ -36,3 +36,7 @@
   <img src="https://profile-counter.glitch.me/DocenteDevRafael/count.svg" />
  </p>
 </div>
+
+ ### TROPHIES
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=DocenteDevRafael&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
