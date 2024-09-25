@@ -31,7 +31,7 @@
 
 
   
- ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Estatísticas do Github
+ ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> 
 [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=DocenteDevRafael&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 
 
