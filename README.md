@@ -27,16 +27,23 @@
 <div>
   <a href="https://github.com/DocenteDevRafael">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DocenteDevRafael&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DocenteDevRafael&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
+  </div>
 
-<div>
- <p align="center"> 
-  Visitors count<br>
-  <img src="https://profile-counter.glitch.me/DocenteDevRafael/count.svg" />
- </p>
-</div>
+
+  
+ ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Estatísticas do Github
+[![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=DocenteDevRafael&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
+
+
+
+
 
  ### TROPHIES
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=DocenteDevRafael&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+ <p align="center"> 
+  Visitors count<br>
+  <img src="https://profile-counter.glitch.me/DocenteDevRafael/count.svg" />
+ </p>
+
