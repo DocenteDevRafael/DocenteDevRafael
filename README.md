@@ -1,6 +1,6 @@
 # Olá, eu sou Rafael
 - 👨🏿‍🏫 Atualmente trabalho como Docente no Senac DF
-- 🧑🏿‍💻Estou trabalhando com Desenvolvimento Front-End, WordPress, PHP, Java, Python e Banco de Dados
+- 🧑🏿‍💻 Trabalho com Desenvolvimento Front-End, WordPress, PHP, Java, Python e Banco de Dados
 - 📽️ Procuro colaborar no desenvolvimento de projetos
 - 🧑🏿‍💻 Pergunte-me sobre Cursos de Desenvolvimento de Sistemas
 
