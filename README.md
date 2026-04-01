@@ -25,13 +25,6 @@
     <a href="https://instagram.com/rafaelrfe" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   
 </div>
-<br>
-
- [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=DocenteDevRafael&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
-
- [![Rafael github stats](https://bad-apple-github-readme.vercel.app/api?username=DocenteDevRafael&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)
- 
-[![Docente Rafael current streak](https://streak-stats.demolab.com/?user=DocenteDevRafael&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 
 
 
